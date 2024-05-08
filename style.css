@@ -15,10 +15,12 @@ body {
 ul li a {
   color: #1F1534;
   text-decoration: none;
+  opacity: 0.5;
 }
 
 ul li a:hover {
   font-weight: bold;
+  opacity: 1.0;
 }
 
 h1, ul {
